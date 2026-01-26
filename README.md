@@ -362,3 +362,4 @@ License
 (MIT License)
 
 Copyright 2018, Microsoft
+Created by Jason Scott Heise
